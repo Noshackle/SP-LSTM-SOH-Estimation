@@ -1,0 +1,2 @@
+下载链接：https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset
+保存方式：解压后将整个文件夹放置项目文件夹中
